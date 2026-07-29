@@ -26,6 +26,19 @@ Pilbara Ridge Mining Operations manages a 35-asset fleet across two 12-hour shif
 ## Project Status
 In progress. Data cleaning, modelling, analysis and dashboard development are being documented throughout the build.
 
+## SQL Analysis
+The SQL workflow is documented in the [`03_sql`](03_sql/) folder.
+
+It includes:
+
+- SQL Server database and table creation
+- Loading all seven project datasets
+- Row-count and data-quality validation
+- Asset reliability analysis
+- Maintenance performance analysis
+
+[View all SQL scripts](03_sql/)
+
 ## Repository Structure
 ```text
 01_raw_data/              Local source extracts, excluded from GitHub
